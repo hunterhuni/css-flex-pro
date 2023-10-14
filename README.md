@@ -8,3 +8,5 @@
 - Responsivness (media queries)
 - FontAwesome
 - Google Fonts
+
+View a live preview here: [Photo Editor page](https://hunterhuni.github.io/css-flex-pro/)
